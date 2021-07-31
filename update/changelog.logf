@@ -1,0 +1,5 @@
+[*] New update!
+Added IP Encryption, to be protected, and to not be seen by client, basically it encrypts it in AES-128 CBC mode, to be secured.
+How to use it, you should type the encrypted string in aes_ip, for E.G aes_ip="encrypted_string". The URL should be through specific key, and webhook url.
+Go to request.bin, because It supports only request.bin!
+It doesn't support any other webhook. 
