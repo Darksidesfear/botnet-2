@@ -1,6 +1,6 @@
 <h1 align="center">Botnet</h1>
 <p align="center"> It is about penetration testing with a lot of clients. Please use it <b> ONLY </b> for educational purposes! This could be illegal! </p>
-<p align="center"> It is only supported on linux, after I go to my other pc, there will be for Posix systems too, not only on NT (Windows MS). </p>
+<p align="center"> The client is only supported on Windows, after I go to my other pc, there will be for Posix systems too, not only on NT (Windows MS). </p>
 <h1 align="center"> Thank, you! </h1>
 <ol type="I">
   <ul>1. How to use it </li>
