@@ -1,7 +1,7 @@
 <h1 align="center">Botnet</h1>
 <p align="center"> It is about penetration testing with a lot of clients. Please use it <b> ONLY </b> for educational purposes! This could be illegal! </p>
 <h1 align="center"> Thank, you! </h1>
-<ol type="circle">
+<ol type="I">
   <ul> How to use it </li>
   <ul> Start the server </ul>
   <ul> Start the client </ul>
