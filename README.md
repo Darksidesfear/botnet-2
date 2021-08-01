@@ -5,11 +5,11 @@
 	<p align="left"> This tool is about penetration testing with big variety of options. How it works? A client connects to the server with specific API-key to authorize and the server have full-access(depends if the program is runned with Administrative-privileges). There is brute-force, system enumeration and more </p>
 	<b align="left"> Usage </b>
 	<p align="left"><ol type="square">
-	<li> 1. Encrypt the internet protocol string in the encryption program </li>
-	<ul> 1.1 Put the AES-128 ciphered text in the client program. Test it, and of course do not forget the webhook address, ONLY ON REQUEST.BIN! </ul>
-	<li> 2. Start the server </li>
-	<li> 3. Start the client </li>
-	<li> 4. Enjoy </li>
+	<li>  Encrypt the internet protocol string in the encryption program </li>
+	<ul>  Put the AES-128 ciphered text in the client program. Test it, and of course do not forget the webhook address, ONLY ON REQUEST.BIN! </ul>
+	<li>  Start the server </li>
+	<li>  Start the client </li>
+	<li>  Enjoy </li>
 	</ol>
 </div>
 <div class="img">
