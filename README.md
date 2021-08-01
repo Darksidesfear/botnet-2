@@ -1,14 +1,12 @@
-<h1 align="center">Botnet</h1>
-<p align="center"> It is about penetration testing with a lot of clients. Please use it <b> ONLY </b> for educational purposes! This could be illegal! </p>
-<p align="center"> The client is only supported on Windows, after I go to my other pc, there will be for Posix systems too, not only on NT (Windows MS). </p>
-<h1 align="center"> Thank, you! </h1>
-<ol type="I">
-  <ul>1. How to use it </li>
-  <ul>2. Start the server </ul>
-  <ul>3. Start the client </ul>
-  <ul>3.3 Edit necessary stuff, like internet protocol </ul>
-  <ul> 4. Enjoy & have fun </ul>
-</ol>
-<div class="img">
-  <p align="center"><img src="https://appdevelopermagazine.com/images/news_images/Making-Application-Testing-a-First-Class-Citizen-App-Developer-Magazine_gd5jd6gn.jpg" width=500, height=500></p>
+<div class="present">
+	<p align="center"> Welcome to this repository </p>
+	<p align="center"> <b> This </b> is only for <b> EDUCATIONAL PURPOSES ONLY</b> any harms you'll/had made/make has nothing to do with me. I'm just a developer, programmer, who programs programs. I do not TAKE <b> ANY </b> responsibilities! </p>	
+	# For what it is about this tool
+	---
+	name: Botnet
+	about: Penetration testing
+	description: It has a big variety of options like brute forcing, system enumeration and other which will be in future added 
+	---
+	# Usage
+	
 </div>
