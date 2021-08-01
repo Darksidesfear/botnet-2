@@ -13,5 +13,5 @@
 	</ol>
 </div>
 <div class="img">
-<p align="center"><img src="https://www.english-efl.com/wp-content/uploads/2019/12/test.jpg" width=500, height=500>
+<p align="center"><img src="https://www.english-efl.com/wp-content/uploads/2019/12/test.jpg" width=800, height=200>
 </div>
